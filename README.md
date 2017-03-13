@@ -33,7 +33,7 @@ VS 2015 Express solutions/projects.
 
 Reference encrypted files are also included, along with key used and the original plaintext files.
 
-Each implementation may decrypt data from a different implementation, as long 
+Each of the four implementations may decrypt data from a different implementation, as long 
 as same key and block size.
 
 
