@@ -1,0 +1,37 @@
+
+profileLargeBlocks: engine CPU-engine:padding-on, encrypt size 4000, total bytes 256000000
+   encrypt time 5096.498014 ms, MB/sec 50.230570
+   decrypt time 5065.433922 ms, MB/sec 50.538612
+
+profileLargeBlocks: engine CPU-engine:padding-on, encrypt size 4000, total bytes 256000000
+   encrypt time 5210.236751 ms, MB/sec 49.134044
+   decrypt time 5097.481182 ms, MB/sec 50.220882
+
+profileLargeBlocks: engine CPU-engine:padding-off, encrypt size 4096, total bytes 256000000
+   encrypt time 5044.496162 ms, MB/sec 50.748378
+   decrypt time 4987.121310 ms, MB/sec 51.332218
+
+profileLargeBlocks: engine CPU-engine:padding-off, encrypt size 4096, total bytes 256000000
+   encrypt time 5005.102724 ms, MB/sec 51.147801
+   decrypt time 4944.396476 ms, MB/sec 51.775783
+
+profileLargeBlocks: engine CPU-MT-engine:padding-on, encrypt size 4000, total bytes 256000000
+   encrypt time 1206.738144 ms, MB/sec 212.142130
+   decrypt time 1187.416902 ms, MB/sec 215.594034
+
+profileLargeBlocks: engine CPU-MT-engine:padding-on, encrypt size 4000, total bytes 256000000
+   encrypt time 1202.576251 ms, MB/sec 212.876314
+   decrypt time 1189.234844 ms, MB/sec 215.264463
+
+profileLargeBlocks: engine CPU-MT-engine:padding-off, encrypt size 4096, total bytes 256000000
+   encrypt time 1178.062479 ms, MB/sec 217.305962
+   decrypt time 1155.950819 ms, MB/sec 221.462709
+
+profileLargeBlocks: engine CPU-MT-engine:padding-off, encrypt size 4096, total bytes 256000000
+   encrypt time 1165.034112 ms, MB/sec 219.736055
+   decrypt time 1154.585331 ms, MB/sec 221.724625
+
+
+
+
+
