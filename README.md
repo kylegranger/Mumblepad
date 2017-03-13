@@ -8,7 +8,7 @@ Version 1, completed March 13, 2017
 A symmetric-key block cipher, with a key size 4096 bytes, 32768 bits.
 Six different block sizes (static, mutually exclusive): 128, 256, 512, 1024, 2048, 4096 bytes.
 
-Encryption and decryption, runs on either CPU of GPU with OpenGL
+Encryption and decryption, runs on either CPU or GPU with OpenGL, OpenGL ES 2.0 (encryption and decryption operations implemented in fragment shaders).
 May run multi-threaded on CPU.
 Runs on GPU with OpenGL or OpenGL ES 2.0.
 
