@@ -22,9 +22,9 @@ The multi-threaded implementation can encrypt or decrypt 210MB per second on an 
 8 rounds, 2 passes (diffuse, confuse) per round.
 
 Full source code to library, which contains four different implementations:
-   single-threaded CPU
-   multi-threaded CPU
-   single-block GPU
+   single-threaded CPU,
+   multi-threaded CPU,
+   single-block GPU,
    multi-block GPU
 
 Demo/test program included, which links to library.  Detailed PDF to come in a day or so.
